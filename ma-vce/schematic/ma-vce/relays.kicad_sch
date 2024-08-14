@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 3bfb988d-be22-4def-9bbe-21acaa1ed236)
+
+  (paper "A4")
+
+  (title_block
+    (title "Relays and (power source) connectors.")
+    (date "2024-08-14")
+    (company "Hortimax")
+    (comment 1 "MA VCE")
+  )
+
+  (lib_symbols
+  )
+
+)
